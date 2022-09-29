@@ -1,1 +1,0 @@
-allure serve ../MAIN-repo/Frugal_Onelern_Main/allure-results
